@@ -14,9 +14,8 @@ Summary: IPyVega3: An IPython/Jupyter widget for Vega 3 and Vega-Lite 2
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/vega3-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/vega3-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/vega3-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/vega3-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/vega3-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/vega3-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/vega3-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/vega3-feedstock)
 
 Current release info
 ====================
